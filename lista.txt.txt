@@ -2,6 +2,3 @@ banana
 manzana
 uva
 limpiza
-palta
-naranja
-pomelo
